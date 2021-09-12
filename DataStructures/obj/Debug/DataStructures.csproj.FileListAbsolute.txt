@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\nso\Big data algorithms\Day1\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\User\Desktop\nso\Big data algorithms\Day1\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\User\Desktop\nso\Big data algorithms\Day1\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\User\Desktop\nso\Big data algorithms\Day1\DataStructures\DataStructures\obj\Debug\DataStructures.csprojAssemblyReference.cache
+C:\Users\User\Desktop\nso\Big data algorithms\Day1\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\nso\Big data algorithms\Day1\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\User\Desktop\nso\Big data algorithms\Day1\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
